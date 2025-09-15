@@ -253,6 +253,51 @@ input.onButtonPressed(Button.A, function () {
         . . . . .
         . . . . .
         `)
+    // shit
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . # . .
+        . . . . .
+        . . . . .
+        `)
+    // shit
+    basic.showLeds(`
+        . . . . .
+        . # # # .
+        . # # # .
+        . # # # .
+        . . . . .
+        `)
+    // shit
+    basic.showLeds(`
+        # # # # #
+        # # # # #
+        # # # # #
+        # # # # #
+        # # # # #
+        `)
+    basic.showLeds(`
+        # # # # #
+        # # # # #
+        # # . # #
+        # # # # #
+        # # # # #
+        `)
+    basic.showLeds(`
+        # # # # #
+        # . . . #
+        # . . . #
+        # . . . #
+        # # # # #
+        `)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
     music.stopAllSounds()
 })
 // fuck

@@ -209,7 +209,43 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="music_stop_all_sounds" id="#uqzj}a93h`8IX{-lyHg"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="y51lhrW(!5XwXm1{.5CP" x="503" y="451"><field name="NAME">Button.B</field><comment pinned="false" h="80" w="160">fuck</comment><statement name="HANDLER"><block type="music_playable_play_default_bkg" id="_iUMIWD43)Bab2L(?3SE"><field name="playbackMode">music.PlaybackMode.LoopingInBackground</field><value name="toPlay"><shadow type="music_string_playable" id="lblGyHSo,3wOYY`]C;5z"></shadow><block type="device_builtin_melody_playable" id="-ZfZA~7#r4y=15.Em#tG"><field name="melody">Melodies.Nyan</field></block></value><next><block type="device_show_leds" id="Juyf|Xa~U{$mryu5|{dq"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="6u=Aa)ha.9hSWFhqsv,3"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><comment pinned="false" h="80" w="160">shit</comment><next><block type="device_show_leds" id="w5s!S:gjjRXm8p!idNmb"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field><comment pinned="false" h="80" w="160">shit</comment><next><block type="device_show_leds" id=":%Xi*.8y+8]GCW).Ox{l"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><comment pinned="false" h="80" w="160">shit</comment><next><block type="device_show_leds" id="s}SLR`n4/ZOuKd(1+*#2"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # . # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="sPHUal9#L_vg_;`b~]KH"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="vI82!#V_T.(A5*l|{[2e"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="music_stop_all_sounds" id="#uqzj}a93h`8IX{-lyHg"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="y51lhrW(!5XwXm1{.5CP" x="503" y="451"><field name="NAME">Button.B</field><comment pinned="false" h="80" w="160">fuck</comment><statement name="HANDLER"><block type="music_playable_play_default_bkg" id="_iUMIWD43)Bab2L(?3SE"><field name="playbackMode">music.PlaybackMode.LoopingInBackground</field><value name="toPlay"><shadow type="music_string_playable" id="lblGyHSo,3wOYY`]C;5z"></shadow><block type="device_builtin_melody_playable" id="-ZfZA~7#r4y=15.Em#tG"><field name="melody">Melodies.Nyan</field></block></value><next><block type="device_show_leds" id="Juyf|Xa~U{$mryu5|{dq"><field name="LEDS">`
         # . . . . 
         . . . . . 
         . . . . . 
